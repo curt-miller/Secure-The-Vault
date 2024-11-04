@@ -1,3 +1,8 @@
+// 1. Write a message
+// 2. establish constants
+// 3. add the message and the constants to an alert
+
+
 // - The below "message" defines the text in the alert
 
 let message = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
@@ -10,4 +15,4 @@ const number3 = 117 / 3;
 
 // The "alert" code geerates an alert popup in the browser
 
-alert(`${message} to the vault is ${number1}-${number2}-${number3}`);
+alert(`${message} ${number1}-${number2}-${number3}`);

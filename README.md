@@ -1,1 +1,1 @@
-# Secure-The-Vault
+This is webpage generates an alert popup with a combination code. This assigment was made using JavaScript and 
